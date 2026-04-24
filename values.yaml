@@ -1,0 +1,2 @@
+image: katallan78/vat:<+pipeline.sequenceId>
+replicas: 1
